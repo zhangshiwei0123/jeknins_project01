@@ -8,6 +8,9 @@ class TestLogout:
         print(username)
         print(pwd)
 
+    def test_logout1(self):
+        print("登出2")
+
 
 
 
