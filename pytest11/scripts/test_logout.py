@@ -11,6 +11,9 @@ class TestLogout:
     def test_logout1(self):
         print("登出2")
 
+    def test_logout3(self):
+        print("登出2")
+        assert 0
 
 
 
